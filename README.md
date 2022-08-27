@@ -35,6 +35,7 @@
 <img align="left" alt="material-ui icon" width="34" height="34" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/material-ui-1.svg">
 <img align="left" alt="redux icon" width="34" height="34" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/redux.svg">
 <img align="left" alt="npm icon" width="34" height="34" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/npm.svg">
+
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=samiomidi&show_icons=true&theme=gotham" alt="samiomidi" /></p>
 
 
