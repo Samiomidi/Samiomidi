@@ -25,7 +25,7 @@
 
 <br />
 <br />
-<img align="right" alt="GIF" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/code.gif?raw=true" width="50%" />
+<img align="center" alt="GIF" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/code.gif?raw=true" width="100%" />
 <br />
 
 <h4>languages and tools:</h4>
