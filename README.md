@@ -17,13 +17,18 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Samiomidi.Samiomidi)
 
 <br />
-<p>hi, i'm [Sami Omidi](https://github.com/Samiomidi/), a passionate self-taught frontend web developer and a freelance web developer from Iran.</p>
+<p>hi, i'm <a href="https://github.com/Samiomidi">Sami Omidi</a>, a passionate self-taught frontend web developer and a freelance web developer from Iran.</p>
 <br />
-- 💼 any freelance work? do reach, [email](mailto:samiomidi@hotmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+<ul>
+  <li > 💼 Any freelance work? do reach, By <a href="mailto:samiomidi@hotmail.com">Email</a> :)</li>
+  <li> 💬 Ask me about anything, i am happy to help;</li>
+  <li> All your comments and suggestions are welcome.</li>
+</ul>
 
+
+<br />
+<br />
 <img align="center" alt="GIF" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/code.gif?raw=true" width="100%" />
-
 <br />
 <h4>languages and tools:</h4>
 
