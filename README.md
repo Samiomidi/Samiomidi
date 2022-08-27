@@ -42,7 +42,8 @@
 <img align="left" alt="npm icon" width="34" height="34" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/npm.svg">
 <br />
 <br />
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api?username=samiomidi&show_icons=true&theme=gotham" alt="samiomidi" /></div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samiomidi&show_icons=true&theme=gotham" alt="samiomidi" /></div>
+
 
 
 
