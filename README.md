@@ -17,7 +17,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Samiomidi.Samiomidi)
 
 <br />
-hi, i'm [Sami Omidi](https://github.com/Samiomidi), a passionate self-taught frontend web developer and a freelance web developer from Iran.
+<p>hi, i'm [Sami Omidi](https://github.com/Samiomidi/), a passionate self-taught frontend web developer and a freelance web developer from Iran.</p>
 <br />
 - 💼 any freelance work? do reach, [email](mailto:samiomidi@hotmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -25,7 +25,7 @@ hi, i'm [Sami Omidi](https://github.com/Samiomidi), a passionate self-taught fro
 
 <br />
 <br />
-<img align="right" alt="GIF" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/code.gif?raw=true" width="380" height="320" />
 <br />
 
 <h4>languages and tools:</h4>
