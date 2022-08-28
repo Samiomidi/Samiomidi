@@ -106,7 +106,6 @@
   <a href="#"><img align="left" alt="React" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/react/react.svg"/></a>
   <a href="#"><img align="left" alt="material-ui" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/material-ui/material-ui.svg"/></a>
   <a href="#"> <img align="left"  alt="redux" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/redux/redux.svg"/></a>
-  <a href="#"><img align="left" alt="Git" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/Git.svg"/></a>
  </p>
 <br />
 <br />
