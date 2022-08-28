@@ -108,12 +108,10 @@
   <a href="#"> <img align="left" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/redux.svg" alt="firebase" height ="42px"/> </a>
   <a href="#"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/npm.svg"> </a>
   <a href="#"><img align="left" alt="Typescirpt" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/Git.svg"></a>
-
 <br />
 <br />
 <hr />
-
-
+<br />
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
