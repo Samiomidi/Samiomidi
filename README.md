@@ -42,9 +42,12 @@
   <a href="#"> <img align="left" alt="CSS3" height="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/css/css.svg"/></a> 
   <a href="#"><img align="left" alt="JavaScript" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/javascript/javascript.svg"/></a>
   <a href="#"><img align="left" alt="React" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/react/react.svg"/></a>
+    <a href="#"> <img align="left" alt="Nextjs" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/nextJS/nextjs-icon.svg"/></a>
   <a href="#"><img align="left" alt="material-ui" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/material-ui/material-ui.svg"/></a>
   <a href="#"> <img align="left"  alt="redux" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/redux/redux.svg"/></a>
  </p>
+<br />
+<br />
 <br />
 <br />
 <hr />
