@@ -24,9 +24,9 @@
 <p>hi, i'm <a href="https://github.com/Samiomidi">Sami Omidi</a>, a passionate self-taught frontend web developer and a freelance web developer from Iran.</p>
 <br />
 <ul>
-  <li > 💼 Any freelance work? do reach, By <a href="mailto:samiomidi@hotmail.com">Email</a> :)</li>
-  <li> 💬 Ask me about anything, i am happy to help;</li>
-  <li> All your comments and suggestions are welcome.</li>
+  <li >💼 Any freelance work? do reach, By <a href="mailto:samiomidi@hotmail.com">Email</a> :)</li>
+  <li>❓ Ask me about anything, i am happy to help;</li>
+  <li>💬 All your comments and suggestions are welcome.</li>
 </ul>
 <br />
 <hr />
