@@ -36,73 +36,11 @@
 <hr />
 <h4>languages and tools:</h4>
 
-  <!--
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/HTML5.svg" width="48" height="48" alt="html5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/CSS3.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/JavaScript.svg" width="48" height="48" alt="javascript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/Nextjs.svg" width="48" height="48" alt="nextjs" />
-      </a>
-      <br>NextJS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/React.svg" width="48" height="48" alt="reactjs" />
-      </a>
-      <br>ReactJS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/material-ui-1.svg" width="48" height="48" alt="materialui" />
-      </a>
-      <br>Material UI
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/redux.svg" width="48" height="48" alt="redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/npm.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/Git.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
--->
-
 <br />
 <p align=center>
   <a href="#"> <img align="left" alt="HTML5" height="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/html/html.svg"/></a> 
   <a href="#"> <img align="left" alt="CSS3" height="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/css/css.svg"/></a> 
   <a href="#"><img align="left" alt="JavaScript" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/javascript/javascript.svg"/></a>
-  <a href="#"> <img align="left" alt="Nextjs" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/nextJS/nextjs-icon.svg"/></a>
   <a href="#"><img align="left" alt="React" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/react/react.svg"/></a>
   <a href="#"><img align="left" alt="material-ui" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/material-ui/material-ui.svg"/></a>
   <a href="#"> <img align="left"  alt="redux" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/icons/redux/redux.svg"/></a>
