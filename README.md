@@ -13,10 +13,19 @@
   <a href="mailto:samiomidi@hotmail.com" target="blank">
     <img align="left" alt="Abhishek's LinkedIN" width="22px" height="22px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/outlook.svg" />
   </a>
+  
+   ![](https://visitor-badge.glitch.me/badge?page_id=Samiomidi.Samiomidi)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Samiomidi.Samiomidi)
 
-<br />
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;ReactJS+Developer;NextJS+Developer;Freelancer" alt="Typing SVG" /></a>
+</p>
+
+
+
+
+
+
 <p>hi, i'm <a href="https://github.com/Samiomidi">Sami Omidi</a>, a passionate self-taught frontend web developer and a freelance web developer from Iran.</p>
 <br />
 <ul>
@@ -42,7 +51,12 @@
 <img align="left" alt="npm icon" width="34" height="34" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/npm.svg">
 <br />
 <br />
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samiomidi&show_icons=true&theme=gotham" alt="samiomidi" /></div>
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=samiomidi&&show_icons=true&theme=radical" alt="samiomidi"/>
+  </a>
+</p>
 
 
 
