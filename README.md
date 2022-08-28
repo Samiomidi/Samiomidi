@@ -98,16 +98,17 @@
 -->
 
 <br />
-
-  <a href="#"> <img align="left" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/HTML5.svg" alt="pytorch" height="42px"/> </a> 
-  <a href="#"> <img align="left" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/CSS3.svg" alt="tensorflow" height="42px"/> </a> 
-  <a href="#"><img align="left" alt="Python" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/JavaScript.svg"></a>
-  <a href="#"> <img align="left" alt="Android" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/Nextjs.svg"> </a>
-  <a href="#"><img align="left" alt="Kotlin" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/React.svg"></a>
-  <a href="#"><img align="left" alt="Java" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/material-ui-1.svg"></a>
-  <a href="#"> <img align="left" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/redux.svg" alt="firebase" height ="42px"/> </a>
-  <a href="#"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/npm.svg"> </a>
-  <a href="#"><img align="left" alt="Typescirpt" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/Git.svg"></a>
+<p align=center>
+  <a href="#"> <img align="left" alt="HTML5" height="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/HTML5.svg"/></a> 
+  <a href="#"> <img align="left" alt="CSS3" height="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/CSS3.svg"/></a> 
+  <a href="#"><img align="left" alt="JavaScript" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/JavaScript.svg"/></a>
+  <a href="#"> <img align="left" alt="Nextjs" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/Nextjs.svg"/></a>
+  <a href="#"><img align="left" alt="React" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/React.svg"/></a>
+  <a href="#"><img align="left" alt="material-ui" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/material-ui-1.svg"/></a>
+  <a href="#"> <img align="left"  alt="redux" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/redux.svg"/></a>
+  <a href="#"> <img align="left" alt="npm" height ="42px"  src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/npm.svg"/></a>
+  <a href="#"><img align="left" alt="Git" height ="42px" src="https://github.com/Samiomidi/Samiomidi/blob/main/assets/skills/Git.svg"/></a>
+ </p>
 <br />
 <br />
 <hr />
