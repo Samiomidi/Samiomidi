@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;ReactJS+Developer;NextJS+Developer;Freelancer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+page;Frontend+Developer;ReactJS+Developer;NextJS+Developer;Freelancer" alt="Typing SVG" /></a>
 </p>
 
 <p>hi, i'm <a href="https://github.com/Samiomidi">Sami Omidi</a>, a passionate self-taught frontend web developer and a freelance web developer from Iran.</p>
